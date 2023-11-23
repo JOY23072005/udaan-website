@@ -1,0 +1,55 @@
+<footer>
+    <div class="base">
+      <ul type="none">
+        <li class="headft">
+          <nobr>CONTACT US!</nobr>
+        </li>
+        <li class="contact"><i class="fa-solid fa-square-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="tel:+919354188355" style="color: #fff;" target="_blank">9354188355</a>
+        </li>
+        <li class="contact"><i class="fa-solid fa-square-phone"></i>&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="tel:+918005597447" style="color: #fff;" target="_blank">8005597447</a>
+        </li>
+        <li class="contact">
+          <nobr><i class="fa-solid fa-envelope"></i>&nbsp;&nbsp;&nbsp;&nbsp;<a href=mailto:udaanhrc01@gmail.com
+              style="color: #fff;" target="_blank">udaanhrc01@gmail.com</a></nobr>
+        </li>
+      </ul>
+      <ul type="none">
+        <li class="headft">
+          <nobr>FOLLOW US!</nobr>
+        </li>
+        <li class="smedia">
+          <nobr>&nbsp;&nbsp;<a href="https://www.instagram.com/udaan_hansraj_college/" target="_blank"><i
+                class="fa-brands fa-instagram" style="color: #fff;">
+              </i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a
+              href="https://www.linkedin.com/in/udaan-the-motivational-society-957ba8285/" style="color: #fff;"
+              target="_blank"><i class="fa-brands fa-linkedin"></i></a></nobr>
+        </li>
+      </ul>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.311122310771!2d77.20520273111583!3d28.680338419113433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd909bc94e77%3A0xd89c815b718f526!2sHansraj%20College%2C%20Delhi%2C%20110007!5e0!3m2!1sen!2sin!4v1700239331848!5m2!1sen!2sin"
+        width="600" height="450" class="map" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <p class="bottom">Address -Hans Raj College, Mahatma Hans Raj Marg, Malkaganj, Delhi 110007, India </p>
+    <div class="bottom1">
+      <ul type="none">
+        <li>
+          <nobr>Logo Designed by -<a href="https://www.behance.net/prachichaudhary2" style="color: rgb(56, 56, 56);"
+              target="_blank">Prachi Chaudhary</a></nobr>
+        </li>
+        <li class="right">
+          <nobr>Website Designed By - <a href="https://www.linkedin.com/in/palak-chauhan-b63065227/"
+              style="color: rgb(56, 56, 56);" target="_blank">Palak Chauhan</a></nobr>
+        </li>
+      </ul>
+      <ul type=none>
+        <li class="developers">
+          <nobr>Website Developed By -<a href="https://www.linkedin.com/in/joydeep-hans-65870928a/"
+              style="color: rgb(56, 56, 56);" target="_blank">Joydeep Hans, Mayank Yadav</a>
+          </nobr>
+        </li>
+      </ul>
+    </div>
+  </footer>
