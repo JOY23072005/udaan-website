@@ -1,0 +1,64 @@
+<script>
+    function toggle1() {
+      let p = document.getElementById('toggle1')
+      if (p.style.display == 'none') {
+        p.style.display = 'block';
+      }
+      else {
+        p.style.display = "none";
+      }
+    }
+    function toggle2() {
+      let p = document.getElementById('toggle2')
+      if (p.style.display == 'none') {
+        p.style.display = 'block';
+      }
+      else {
+        p.style.display = "none";
+      }
+    }
+</script>
+  <header>
+    <div class="headers">
+      <img class="logo1" src="images\PNG\imp png logo.png" alt="LOGO UDAAN SOCIETY" />
+      <img class="logo2" src="images\PNG\college logo png.png" alt="LOGO HANSRAJ COLLEGE" />
+      <div class="top">
+        <h1 class="heading">UDAAN</h1>
+        <p Class="subhd">The Motivational Society</p>
+        <p Class="subhd2"> Hansraj College,University Of Delhi</p>
+      </div>
+      <div class="overlay"></div>
+    </div>
+  </header>
+  <nav class="navbar">
+    <ul class="navitems">
+      <li class=main>Home</li>
+      <li class=main onclick="toggle1()">About Us <i id=icon class="fa-solid fa-caret-down"></i>
+      </li>
+      <li class=main>event & activities</li>
+      <li class=main onclick="toggle2()">Special Corner <i id=icon class="fa-solid fa-caret-down"></i>
+      </li>
+      <li class=main>Join Us</li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+  <!--#####################################
+      <div class="u may code here after header! and rename this class! anchor will be added later!">
+  #####################################-->
+        <ul id="toggle1" class="t1" style="display:none; position:absolute;">
+          <li class="item">History</li>
+          <li class="item">Vision</li>
+          <li class="item">Team</li>
+          <li class="item">Wings</li>
+        </ul>
+        <ul id="toggle2" class="t2" style="display:none;position:absolute;">
+          <li class="item">Spotlight</li>
+          <li class="item">
+            <nobr>Monday Motivation</nobr>
+          </li>
+          <li class="item">Inspirational Tales</li>
+        </ul>
+    </section>
+  </main>
